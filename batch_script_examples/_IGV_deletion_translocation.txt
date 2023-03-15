@@ -1,0 +1,6 @@
+collapse
+preference SAM.SHOW_SOFT_CLIPPED true
+viewaspairs false
+colorBy INSERT_SIZE
+sort INSERTSIZE
+group NONE

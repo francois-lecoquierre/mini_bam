@@ -1,0 +1,5 @@
+collapse
+preference SAM.SHOW_SOFT_CLIPPED true
+colorBy PAIR_ORIENTATION
+group PAIR_ORIENTATION
+sort INSERTSIZE

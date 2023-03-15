@@ -1,0 +1,5 @@
+collapse
+preference SAM.SHOW_SOFT_CLIPPED false
+viewaspairs false
+colorBy READ_STRAND
+group NONE

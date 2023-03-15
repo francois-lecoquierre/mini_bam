@@ -1,0 +1,1 @@
+preference SAM.SHOW_SOFT_CLIPPED false
